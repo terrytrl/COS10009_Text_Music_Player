@@ -1,0 +1,61 @@
+4
+Affirmation
+Savage Garden
+Pop
+8
+Affirmation
+sounds/01_sound.mp3
+Hold Me
+sounds/02_sound.mp3
+I knew I Loved You
+sounds/03_sound.mp3
+The Best Thing
+sounds/04_sound.mp3
+Crash and Burn
+sounds/05_sound.mp3
+Chained to You
+sounds/06_sound.mp3
+The Animal Song
+sounds/07_sound.mp3
+The lover After Me
+sounds/08_sound.mp3
+Millennium
+Backstreet Boys
+Pop
+5
+Larger Than Life
+sounds/01_sound.mp3
+I Want It That Way
+sounds/02_sound.mp3
+Show Me The Meaning
+sounds/03_sound.mp3
+It's Gotaa Be You
+sounds/04_sound.mp3
+I Need You Tonight
+sounds/05_sound.mp3
+Sunshine
+S Club 7
+Pop
+4
+Dont Stop Moving
+sounds/01_sound.mp3
+Show Me Your Colours
+sounds/02_sound.mp3
+You
+sounds/03_sound.mp3
+Have You Ever
+sounds/04_sound.mp3
+My World 2.0
+Justin Bieber
+Pop
+5
+Baby
+sounds/01_sound.mp3
+Somebody to Love
+sounds/02_sound.mp3
+Stuck in the Moment
+sounds/03_sound.mp3
+U Smile
+sounds/04_sound.mp3
+Runaway Love
+sounds/05_sound.mp3
